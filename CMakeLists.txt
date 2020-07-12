@@ -32,3 +32,5 @@ endif (WIN32)
 option(RACYDB_BUILD_TESTS "Build RacyDB's unit tests" ON)
 option(RACYDB_BUILD_BENCHMARKS "Build RacyDB's benchmarks" ON)
 option(RACYDB_INSTALL "Install RacyDB's header and library" ON)
+
+
